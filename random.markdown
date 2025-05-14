@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: random
 title: Random
 permalink: /random/
 ---
 
-Under Construction! 🚧
+Welcome to my random page! Here are some things that I'm interested in: 

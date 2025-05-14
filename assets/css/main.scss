@@ -1,0 +1,21 @@
+---
+---
+
+/* This file overrides Minima’s color palette using CSS variables */
+
+:root {
+  --brand-color: #4b5ae3; /* Blue */
+  --brand-color-light: #7f8aff;
+  --brand-color-dark: #3a47b6;
+
+  --accent-color: #f79d6b; /* Orange */
+
+  --text-color: #333;
+  --background-color: #fff;
+  --border-color: #e0e0e0;
+
+  --link-color: #4b5ae3;
+  --link-hover-color: #f79d6b;
+
+  --heading-color: #1a1a1a;
+}
